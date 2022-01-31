@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### I'm the future Backend Developer.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtiger0303&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtiger0303&show_icons=true&theme=cobalt)
 
 
 ### Skills/languages
